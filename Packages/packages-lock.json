@@ -154,6 +154,12 @@
       },
       "url": "https://packages.unity.com"
     },
+    "org.mujoco": {
+      "version": "file:/Users/jaku/JX-Platform/Github/simulation-mujoco-summit-wam/submodules/jx-mujoco/unity",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
